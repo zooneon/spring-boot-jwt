@@ -20,3 +20,8 @@ spring:
 loggig:
   level:
     me.zooneon: DEBUG
+
+jwt:
+  header: Authorization
+  secret: 67Cw6rOg7ZSE64ukIOuCmOuPhCDqsJzrsJwg7J6Y7ZWY6rOgIOyLtuuLpCDsnbTqsbgg7ISk66eIIOuUlOy9lOuUqSDtlZjripQg7IKs656M7J20IOyeiOydhOq5jD8g67OE6rGwIOyXhuuKlOuNsCDjhYvjhYsK
+  token-validity-in-seconds: 86400
